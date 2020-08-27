@@ -20,7 +20,7 @@ const httpOptions = {
 })
 export class ComandosService {
 
-  url = "WebApplication2/Servlet/Logic";
+  url = "WebApplication3/NewServlet";
 
   constructor(private http: HttpClient) { }
 
